@@ -58,6 +58,10 @@ $ ./bin/repeatedCircularDemo.php 100 1000
 306/1000 = 30.6%
 ```
 
+## Further experimentation
+
+I've left some interesting things commented out in the code to help you explore what's happening with the data. Start [here](https://github.com/ksandom/circularDemo/blob/main/bin/circularDemo.php#L17) and [here](https://github.com/ksandom/circularDemo/blob/main/bin/RepeatAndStats.lib.php#L36), for example.
+
 ## Requirements
 
 * PHP

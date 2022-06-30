@@ -1,5 +1,7 @@
 #!/usr/bin/php
 <?php
+# Run the test many times, and show how many times it passed and failed.
+# (C) Copyright Kevin Sandom 2022.
 
 include_once 'RepeatAndStats.lib.php';
 

@@ -1,5 +1,7 @@
 <?php
 # Does the work of repeating several tests and analysing them.
+# (C) Copyright Kevin Sandom 2022.
+
 include_once 'ListSet.lib.php';
 
 
@@ -28,6 +30,9 @@ class RepeatAndStats {
             // Show stats on loop sizes.
             $stats = $set->getLoopsStats($loopSizes);
             $this->allStats[] = $stats;
+            
+            # Uncomment the following line to see the tests in action.
+            # Note that this has a performance impact.
             #$set->prettyPrintStats($stats);
         }
         

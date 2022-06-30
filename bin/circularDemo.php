@@ -1,5 +1,7 @@
 #!/usr/bin/php
 <?php
+# Show the loops in a set, and whether the scenario passed, or failed.
+# (C) Copyright Kevin Sandom 2022.
 
 include_once 'ListSet.lib.php';
 

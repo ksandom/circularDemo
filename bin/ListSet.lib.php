@@ -1,5 +1,6 @@
 <?php
 # Does the work for creating the list, and analysing the loops.
+# (C) Copyright Kevin Sandom 2022.
 
 class ListSet {
     private $listSize=100;
