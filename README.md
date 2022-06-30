@@ -2,7 +2,7 @@
 
 Showing that any number in a closed linked list will loop, and reproducing the result for how many will succeed.
 
-Based on [this Veritasium video](https://www.youtube.com/watch?v=iSNsgj1OCLA).
+Based on [this Veritasium video](https://www.youtube.com/watch?v=iSNsgj1OCLA). I've also done [a response video demoing this project](https://youtu.be/pxwq8Gtass0).
 
 ## Proving that all numbers will be in a loop
 
