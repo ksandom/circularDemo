@@ -82,5 +82,5 @@ $ .\bin\repeatedCircularDemo.php 100 1000
 
 ## Contributions
 
-* PRs welcome.
+* [PR](https://github.com/ksandom/circularDemo/pulls)s welcome.
 * Check out [my other work](https://www.youtube.com/channel/UClPMAYH46sh4Qagj2ufQkYA), Eg [handWavey](https://www.youtube.com/watch?v=kCbar8w3Pws), which is really cool.
